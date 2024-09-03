@@ -4,3 +4,11 @@ server:
 spring:
   application:
     name: Formulario
+
+
+
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
