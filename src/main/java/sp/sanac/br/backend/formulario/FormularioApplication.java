@@ -1,4 +1,4 @@
-package sp.sanac.br.backend.Formulario;
+package sp.sanac.br.backend.formulario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

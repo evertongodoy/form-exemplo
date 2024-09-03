@@ -1,4 +1,4 @@
-package sp.sanac.br.backend.Formulario;
+package sp.sanac.br.backend.formulario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
